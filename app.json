@@ -1,6 +1,6 @@
 {
-  "name": "KERM_MD-V4",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
+  "name": "𝐁𝐋𝐀𝐂𝐊 𝐆𝐑𝐄𝐘 𝐋𝐄𝐎𝐍𝐈𝐃𝐀𝐒",
+  "description": "𝐆𝐫𝐞𝐲 𝐜𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬",
   "logo": "https://files.catbox.moe/osriwc.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -20,9 +20,9 @@
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "𝐁𝐥𝐚𝐜𝐤 𝐢𝐬 𝐨𝐧𝐥𝐢𝐧𝐞 24/7",
       "required": true,
-      "value": "HI DEAR IM ONLINE.!!♻️"
+      "value": "HI 𝐂𝐎𝐌𝐑𝐀𝐃𝐄 IM ONLINE.!!♻️"
     },
     
     "PREFIX": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩4』✦"
+      "value":"𓊈𓆩♛𝐁𝐋𝐀𝐂𝐊 𝐆𝐑𝐄𝐘 𝐋𝐄𝐎𝐍𝐈𝐃𝐀𝐒♛𓆪𓊉"
     }, 
 
     "HEART_REACT": {
